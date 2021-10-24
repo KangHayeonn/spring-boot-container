@@ -59,4 +59,4 @@ jobs:
        file: ./Dockerfile
        push: true
        tags: |
-         ${{ secrets.DOCKERHUB_USERNAME }}/docker-practice*/
+         ${{ secrets.DOCKERHUB_USERNAME }}/docker-practice
